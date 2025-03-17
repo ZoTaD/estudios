@@ -1,0 +1,14 @@
+NodeJs usa MODULOS parra organizar el codigo en partes reutilizables
+
+En vez de escribir todo el codigo en un solo archivo podemos dividir el codigo
+
+Los MODULOS nos permiten exportar funciones, objetos o clases, desde un archivo y usarlos en otro archivo usando require()
+
+EJEMPLOS DE USO
+Una calculadora, con diferentes modulos calculadora.js con funciones matematicas.
+En un servidor web podria tener un modulo usuarios.js para manejar usuarios.
+
+TIPOS DE MODULOS EN NODEJS
+1 - Modulos nativos -> Como por ejemplo (fs, http, path)
+2 - Modulos creados por el usuario -> los que crea uno (require('./modulo'))
+3 - Modulos de terceros -> Instalados con npm (express, axios)

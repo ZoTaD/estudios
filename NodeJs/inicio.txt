@@ -1,0 +1,10 @@
+Que es NodeJs?
+
+Es un entorno de ejecucion de JavaScript en el servidor, deja ejecutar JS fuera del navegador usando V8 de Chrome.
+NodeJs es asincrono y basado en eventos.
+
+Para que lo vamos a usar?
+
+Para crear APIs y servers web
+Manejar archivos, bases de datos y conexiones.
+
